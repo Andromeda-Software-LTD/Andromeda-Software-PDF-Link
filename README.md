@@ -39,7 +39,8 @@ Esperamos que este guia tenha fornecido uma visão abrangente sobre o Windows SD
 ## Instalação
 
 ```bash
-	Python 3
+  Tutorial https://youtu.be/yi_qWMpqUTs
+  Python 3
   para usar ./py andromeda-software.py 
 ```
     
